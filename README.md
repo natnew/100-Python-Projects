@@ -12,7 +12,7 @@ Number | Project
 2 | [Shutdown And Restart](https://github.com/natnew/Python-Project-Shutdown-and-Restart-Computer)
 3 | [Find A String](https://github.com/natnew/Python-Projects-Find-a-file-using-a-string)
 4 | [Password Generator](https://github.com/natnew/Python-Projects-Password-Generator)
-5 | []()
+5 | [Secret Messages](https://github.com/natnew/Python-Projects-Secret-Message/blob/main/README.md)
 6 | []()
 7 | []()
 8 | []()
