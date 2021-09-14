@@ -15,6 +15,6 @@ Number | Project
 5 | [Secret Messages](https://github.com/natnew/Python-Projects-Secret-Message/blob/main/README.md)
 6 | [Countdown Timer](https://github.com/natnew/Python-Projects-Countdown-Timer)
 7 | [Rock, Paper, Scissors](https://github.com/natnew/Python-Projects-Rock-Paper-Scissors)
-8 | []()
+8 | [Bulk Rename Files](https://github.com/natnew/Python-Projects-Bulk-Rename-Files)
 9 | []()
 10 | []()
