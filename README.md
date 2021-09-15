@@ -16,5 +16,5 @@ Number | Project
 6 | [Countdown Timer](https://github.com/natnew/Python-Projects-Countdown-Timer)
 7 | [Rock, Paper, Scissors](https://github.com/natnew/Python-Projects-Rock-Paper-Scissors)
 8 | [Bulk Rename Files](https://github.com/natnew/Python-Projects-Bulk-Rename-Files)
-9 | []()
+9 | [Friendship Calculator](https://github.com/natnew/Python-Projects-Friendship-Calculator)
 10 | []()
