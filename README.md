@@ -17,4 +17,4 @@ Number | Project
 7 | [Rock, Paper, Scissors](https://github.com/natnew/Python-Projects-Rock-Paper-Scissors)
 8 | [Bulk Rename Files](https://github.com/natnew/Python-Projects-Bulk-Rename-Files)
 9 | [Friendship Calculator](https://github.com/natnew/Python-Projects-Friendship-Calculator)
-10 | []()
+10 | [Documenting Code](https://github.com/natnew/Python-Projects-Documenting-Code)
