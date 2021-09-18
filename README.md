@@ -4,7 +4,7 @@
 
 If you want to learn about **Python**: https://docs.python.org/3/ <br>
 If you want to learn about **Github**: https://docs.github.com/en <br>
-I am welcome to any suggestions! ⭐ <br>
+I welcome any suggestions! ⭐ <br>
 
 Number | Project
 ------ | -------------
@@ -23,7 +23,7 @@ Number | Project
 13 | [Pop Up Notification](https://github.com/natnew/Python-Projects-Pop-Up-Notification)
 14 | [Get Weather Data](https://github.com/natnew/Python-Projects-Get-Weather-Data)
 15 | [Teach A Computer To Read](https://github.com/natnew/Python-Projects-Teach-A-Computer-To-Raed)
-16 | []()
+16 | [Team Chooser](https://github.com/natnew/Python-Projects-Team-Chooser)
 17 | []()
 18 | []()
 19 | []()
