@@ -29,7 +29,7 @@ Number | Project
 19 | [Throw Dice](https://github.com/natnew/Python-Projects-Throw-Dice)
 20 | [Download A PDF](https://github.com/natnew/Python-Projects-Download-A-PDF)
 21 | [Binary Search](https://github.com/natnew/Python-Projects-Binary-Search)
-22 | []()
+22 | [Hangman](https://github.com/natnew/Python-Projects-Hangman)
 23 | []()
 24 | []()
 25 | []()
