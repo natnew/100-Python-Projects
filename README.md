@@ -34,9 +34,9 @@ Number | Project      | Resources
 23 | [Zookeeper](https://github.com/natnew/Python-Projects-Zookeeper)
 24 | [Chatty Bot](https://github.com/natnew/Python-Projects-Chatty-Bot)
 25 | [Calculate Python code](https://github.com/natnew/Python-Projects-Calculate-Python-Code)
-26 | []()
-27 | []()
-28 | []()
+26 | [BMI Calculator](https://github.com/natnew/Python-Projects-BMI-Calculator)
+27 | [Acronym Generator](https://github.com/natnew/Python-Projects-Acronym-Generator)
+28 | [Generate A Story](https://github.com/natnew/Python-Projects-Generate-A-Story/blob/main/README.md)
 29 | []()
 30 | []()
 
