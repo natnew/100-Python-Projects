@@ -1,4 +1,4 @@
-# 100-Python-Projects
+# 100 Python Projects
 100 Python Projects by natnew<br>
 *Beginner, Intermediate and advanced projects*<br>
 
