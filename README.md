@@ -32,5 +32,5 @@ Number | Project      | Resources
 21 | [Binary Search](https://github.com/natnew/Python-Projects-Binary-Search)
 22 | [Hangman](https://github.com/natnew/Python-Projects-Hangman)
 23 | [Zookeeper](https://github.com/natnew/Python-Projects-Zookeeper)
-24 | []()
+24 | [Chatty Bot](https://github.com/natnew/Python-Projects-Chatty-Bot)
 25 | []()
