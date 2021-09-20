@@ -6,9 +6,9 @@ If you want to learn about **Python**: https://docs.python.org/3/ <br>
 If you want to learn about **Github**: https://docs.github.com/en <br>
 I welcome any suggestions! ⭐ <br>
 
-Number | Project
------- | -------------
-1 | [Hello World](https://github.com/natnew/Python-Project-Hello-World)
+Number | Project      | Resources
+------ | ------------- |-------------------------------
+1 | [Hello World](https://github.com/natnew/Python-Project-Hello-World) |Internet connection, Python, IDE
 2 | [Shutdown And Restart](https://github.com/natnew/Python-Project-Shutdown-and-Restart-Computer)
 3 | [Find A String](https://github.com/natnew/Python-Projects-Find-a-file-using-a-string)
 4 | [Password Generator](https://github.com/natnew/Python-Projects-Password-Generator)
@@ -30,6 +30,6 @@ Number | Project
 20 | [Download A PDF](https://github.com/natnew/Python-Projects-Download-A-PDF)
 21 | [Binary Search](https://github.com/natnew/Python-Projects-Binary-Search)
 22 | [Hangman](https://github.com/natnew/Python-Projects-Hangman)
-23 | []()
+23 | [Zookeeper](https://github.com/natnew/Python-Projects-Zookeeper)
 24 | []()
 25 | []()
