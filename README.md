@@ -33,4 +33,10 @@ Number | Project      | Resources
 22 | [Hangman](https://github.com/natnew/Python-Projects-Hangman)
 23 | [Zookeeper](https://github.com/natnew/Python-Projects-Zookeeper)
 24 | [Chatty Bot](https://github.com/natnew/Python-Projects-Chatty-Bot)
-25 | []()
+25 | [Calculate Python code](https://github.com/natnew/Python-Projects-Calculate-Python-Code)
+26 | []()
+27 | []()
+28 | []()
+29 | []()
+30 | []()
+
