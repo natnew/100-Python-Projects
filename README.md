@@ -1,4 +1,4 @@
-# 100 Python Projects
+# 100 Python Projects 🐍
 100 Python Projects by natnew<br>
 *Beginner, Intermediate and advanced projects*<br>
 Part of the **100 Days Of Code** Challenge! 🙂
@@ -37,6 +37,26 @@ Number | Project      | Resources
 26 | [BMI Calculator](https://github.com/natnew/Python-Projects-BMI-Calculator)
 27 | [Acronym Generator](https://github.com/natnew/Python-Projects-Acronym-Generator)
 28 | [Generate A Story](https://github.com/natnew/Python-Projects-Generate-A-Story/blob/main/README.md)
-29 | []()
+29 | [Crack A Code](https://github.com/natnew/Python-Projects-Crack-A-Code)
 30 | []()
+31 | []()
+32 | []()
+33 | []()
+34 | []()
+35 | []()
+36 | []()
+37 | []()
+38 | []()
+39 | []()
+40 | []()
+41 | []()
+42 | []()
+43 | []()
+44 | []()
+45 | []()
+46 | []()
+47 | []()
+48 | []()
+49 | []()
+50 | []()
 
