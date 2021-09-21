@@ -60,3 +60,8 @@ Number | Project      | Resources
 49 | []()
 50 | []()
 
+## CERTIFICATES
+
+## CONTACT
+[Portfolio](https://github.com/natnew/NATASHA-/blob/main/README.md)<BR>
+[Linkedin](https://www.linkedin.com/in/natasha-newbold/)
