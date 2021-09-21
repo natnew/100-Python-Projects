@@ -40,7 +40,7 @@ Number | Project      | Resources
 29 | [Crack A Code](https://github.com/natnew/Python-Projects-Crack-A-Code)
 30 | [Personality Quiz](https://github.com/natnew/Python-Projects-Personality-Quiz)
 31 | [Predict Rocket Launch Delays With Machine Learning](https://github.com/natnew/Python-Projects-Predict-Rocket-Launch-Delays-With-Machine-Learning)
-32 | []()
+32 | [Calorie Counter](https://github.com/natnew/Python-Projects-Calorie-Calculator)
 33 | []()
 34 | []()
 35 | []()
