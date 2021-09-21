@@ -62,6 +62,20 @@ Number | Project      | Resources
 
 ## CERTIFICATES
 
+## SKILLS
+- Python
+- Django
+- Docker
+- SQL
+- AWS
+- kubernetes
+- Machine Learning
+- numpy
+- pandas
+- sklearn
+- Azure
+- Google Cloud Platform
+
 ## CONTACT
 [Portfolio](https://github.com/natnew/NATASHA-/blob/main/README.md)<BR>
 [Linkedin](https://www.linkedin.com/in/natasha-newbold/)
