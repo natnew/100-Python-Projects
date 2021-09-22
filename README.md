@@ -42,7 +42,7 @@ Number | Project      | Resources
 31 | [Predict Rocket Launch Delays With Machine Learning](https://github.com/natnew/Python-Projects-Predict-Rocket-Launch-Delays-With-Machine-Learning)
 32 | [Calorie Counter](https://github.com/natnew/Python-Projects-Calorie-Calculator)
 33 | [Data Exploration With NumPy And Pandas](https://github.com/natnew/Python-Projects-Data-Exploration-With-NumPy-And-Pandas)
-34 | []()
+34 | [Visualise data with Matplotlib](https://github.com/natnew/Python-Projects-Visualise-data-with-Matplotlib/blob/main/README.md)
 35 | []()
 36 | []()
 37 | []()
