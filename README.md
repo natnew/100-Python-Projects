@@ -43,7 +43,7 @@ Number | Project      | Resources
 32 | [Calorie Counter](https://github.com/natnew/Python-Projects-Calorie-Calculator)
 33 | [Data Exploration With NumPy And Pandas](https://github.com/natnew/Python-Projects-Data-Exploration-With-NumPy-And-Pandas)
 34 | [Visualise data with Matplotlib](https://github.com/natnew/Python-Projects-Visualise-data-with-Matplotlib/blob/main/README.md)
-35 | []()
+35 | [Explore Real World Data](https://github.com/natnew/Python-Projects-Explore-Real-World-Data)
 36 | []()
 37 | []()
 38 | []()
