@@ -46,7 +46,7 @@ Number | Project      | Resources
 35 | [Explore Real World Data](https://github.com/natnew/Python-Projects-Explore-Real-World-Data)
 36 | [Vowel Removal](https://github.com/natnew/Python-Projects-Vowel-Removal)
 37 | [Python Projects Graphing Weather Data](https://github.com/natnew/Python-Projects-Graphing-Weather-Data)
-38 | []()
+38 | [Popular Pets](https://github.com/natnew/Python-Projects-Popular-Pets/blob/main/README.md)
 39 | []()
 40 | []()
 41 | []()
