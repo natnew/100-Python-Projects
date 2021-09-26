@@ -48,7 +48,7 @@ Number | Project      | Resources
 37 | [Python Projects Graphing Weather Data](https://github.com/natnew/Python-Projects-Graphing-Weather-Data)
 38 | [Popular Pets](https://github.com/natnew/Python-Projects-Popular-Pets/blob/main/README.md)
 39 | [Find Space Stations](https://github.com/natnew/Python-Projects-Find-Space-Stations)
-40 | [Shakespearean insult generator]()
+40 | [Shakespearean Insult Generator]()
 41 | []()
 42 | []()
 43 | []()
