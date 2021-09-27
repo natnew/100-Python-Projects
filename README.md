@@ -51,7 +51,7 @@ Number | Project      | Resources
 40 | [Shakespearean Insult Generator]()
 41 | [Rotate A String](https://github.com/natnew/Python-Projects-Rotate-A-String/blob/main/README.md)
 42 | [Create A Dictionary](https://github.com/natnew/Python-Projects-Create-A-Dictionary)
-43 | []()
+43 | [Plotting In Python](https://github.com/natnew/Python-Projects-Plotting-In-Python)
 44 | []()
 45 | []()
 46 | []()
