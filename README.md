@@ -52,7 +52,7 @@ Number | Project      | Resources
 41 | [Rotate A String](https://github.com/natnew/Python-Projects-Rotate-A-String/blob/main/README.md)
 42 | [Create A Dictionary](https://github.com/natnew/Python-Projects-Create-A-Dictionary)
 43 | [Plotting In Python](https://github.com/natnew/Python-Projects-Plotting-In-Python)
-44 | []()
+44 | [Word Count](https://github.com/natnew/Python-Projects-Word-Count)
 45 | []()
 46 | []()
 47 | []()
