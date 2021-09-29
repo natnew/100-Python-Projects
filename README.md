@@ -53,7 +53,7 @@ Number | Project      | Resources
 42 | [Create A Dictionary](https://github.com/natnew/Python-Projects-Create-A-Dictionary)
 43 | [Plotting In Python](https://github.com/natnew/Python-Projects-Plotting-In-Python)
 44 | [Word Count](https://github.com/natnew/Python-Projects-Word-Count)
-45 | []()
+45 | [Sort Numbers](https://github.com/natnew/Python-Projects-Sort-Numbers)
 46 | []()
 47 | []()
 48 | []()
