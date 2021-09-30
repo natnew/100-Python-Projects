@@ -60,6 +60,11 @@ Number | Project      | Resources
 49 | []()
 50 | []()
 
+<details>
+<summary>Expand For Details</summary>
+
+</details>
+
 ## CERTIFICATES
 
 ## SKILLS
