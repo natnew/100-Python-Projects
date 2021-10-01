@@ -55,7 +55,7 @@ Number | Project      | Resources
 44 | [Word Count](https://github.com/natnew/Python-Projects-Word-Count)
 45 | [Sort Numbers](https://github.com/natnew/Python-Projects-Sort-Numbers)
 46 | [Sort Strings](https://github.com/natnew/Python-Projects-Sort-Strings)
-47 | []()
+47 | [Working With Timezones](https://github.com/natnew/Python-Projects-Working-With-Timezones)
 48 | []()
 49 | []()
 50 | []()
