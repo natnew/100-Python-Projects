@@ -54,7 +54,7 @@ Number | Project      | Resources
 43 | [Plotting In Python](https://github.com/natnew/Python-Projects-Plotting-In-Python)
 44 | [Word Count](https://github.com/natnew/Python-Projects-Word-Count)
 45 | [Sort Numbers](https://github.com/natnew/Python-Projects-Sort-Numbers)
-46 | []()
+46 | [Sort Strings](https://github.com/natnew/Python-Projects-Sort-Strings)
 47 | []()
 48 | []()
 49 | []()
