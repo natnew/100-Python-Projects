@@ -62,6 +62,8 @@ Number | Project      | Resources
 
 <details>
 <summary>Expand For Details</summary>
+  <p>This project was created by natnew and contains Python projects from a beginners to advanced level. <br>
+    
 
 </details>
 
