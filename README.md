@@ -67,6 +67,11 @@ Number | Project      | Resources
 
 </details>
 
+## Here are a few libraries that were used on these projects 📚
+![]()
+
+## Latest Articles ✍️
+
 ## CERTIFICATES
 
 ## SKILLS
