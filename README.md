@@ -10,9 +10,9 @@ I welcome any suggestions! ⭐ <br>
 Number | Project      | Resources
 ------ | ------------- |-------------------------------
 1 | [Hello World](https://github.com/natnew/Python-Project-Hello-World) |Internet connection, Python, IDE
-2 | [Shutdown And Restart](https://github.com/natnew/Python-Project-Shutdown-and-Restart-Computer)
-3 | [Find A String](https://github.com/natnew/Python-Projects-Find-a-file-using-a-string)
-4 | [Password Generator](https://github.com/natnew/Python-Projects-Password-Generator)
+2 | [Shutdown And Restart](https://github.com/natnew/Python-Project-Shutdown-and-Restart-Computer) |Internet connection, Python, IDE
+3 | [Find A String](https://github.com/natnew/Python-Projects-Find-a-file-using-a-string) |Internet connection, Python, IDE
+4 | [Password Generator](https://github.com/natnew/Python-Projects-Password-Generator) |Internet connection, Python, IDE
 5 | [Secret Messages](https://github.com/natnew/Python-Projects-Secret-Message/blob/main/README.md)
 6 | [Countdown Timer](https://github.com/natnew/Python-Projects-Countdown-Timer)
 7 | [Rock, Paper, Scissors](https://github.com/natnew/Python-Projects-Rock-Paper-Scissors)
