@@ -33,7 +33,7 @@ Number | Project      | Resources
 22 | [Hangman](https://github.com/natnew/Python-Projects-Hangman)|Internet connection, Python, IDE
 23 | [Zookeeper](https://github.com/natnew/Python-Projects-Zookeeper)|Internet connection, Python, IDE
 24 | [Chatty Bot](https://github.com/natnew/Python-Projects-Chatty-Bot)|Internet connection, Python, IDE
-25 | [Calculate Python code](https://github.com/natnew/Python-Projects-Calculate-Python-Code)
+25 | [Calculate Python code](https://github.com/natnew/Python-Projects-Calculate-Python-Code)|Internet connection, Python, IDE
 26 | [BMI Calculator](https://github.com/natnew/Python-Projects-BMI-Calculator)|Internet connection, Python, IDE
 27 | [Acronym Generator](https://github.com/natnew/Python-Projects-Acronym-Generator)|Internet connection, Python, IDE
 28 | [Generate A Story](https://github.com/natnew/Python-Projects-Generate-A-Story/blob/main/README.md)|Internet connection, Python, IDE
