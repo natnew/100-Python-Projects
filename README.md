@@ -20,7 +20,7 @@ Number | Project      | Resources
 9 | [Friendship Calculator](https://github.com/natnew/Python-Projects-Friendship-Calculator)|Internet connection, Python, IDE
 10 | [Documenting Code](https://github.com/natnew/Python-Projects-Documenting-Code)|Internet connection, Python, IDE
 11 | [Web Scarping Github](https://github.com/natnew/Python-Projects-Web-Scraping-Github)|Internet connection, Python, IDE
-12 | [Instagram Profile Picture Downloader](https://github.com/natnew/Python-Projects-Instagram-Profile-Picture-Downloader-)
+12 | [Instagram Profile Picture Downloader](https://github.com/natnew/Python-Projects-Instagram-Profile-Picture-Downloader-)|Internet connection, Python, IDE
 13 | [Pop Up Notification](https://github.com/natnew/Python-Projects-Pop-Up-Notification)|Internet connection, Python, IDE
 14 | [Get Weather Data](https://github.com/natnew/Python-Projects-Get-Weather-Data)|Internet connection, Python, IDE
 15 | [Teach A Computer To Read](https://github.com/natnew/Python-Projects-Teach-A-Computer-To-Raed)|Internet connection, Python, IDE
