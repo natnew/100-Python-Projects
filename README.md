@@ -71,8 +71,16 @@ Number | Project      | Resources
 ![]()
 
 ## Latest Articles ✍️
+ - []()
+ - []()
+ - []()
+ - []()
 
 ## CERTIFICATES
+ - []()
+ - []()
+ - []()
+ - []()
 
 ## SKILLS
 - Python
