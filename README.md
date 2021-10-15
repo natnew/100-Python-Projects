@@ -57,7 +57,7 @@ Number | Project      | Resources
 46 | [Sort Strings](https://github.com/natnew/Python-Projects-Sort-Strings)|Internet connection, Python, IDE
 47 | [Working With Timezones](https://github.com/natnew/Python-Projects-Working-With-Timezones)|Internet connection, Python, IDE
 48 | [Jane Austen Story Adaptation](https://github.com/natnew/Python-Projects-Jane-Austen-Story)|Internet connection, Python, IDE
-49 | []()
+49 | [Create a PDF](https://github.com/natnew/Python-Projects-Create-A-PDF/blob/main/README.md)
 50 | []()
 
 <details>
