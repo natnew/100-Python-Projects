@@ -99,3 +99,4 @@ Number | Project      | Resources
 ## CONTACT
 [Portfolio](https://github.com/natnew/NATASHA-/blob/main/README.md)<BR>
 [Linkedin](https://www.linkedin.com/in/natasha-newbold/)
+[CV](https://www.linkedin.com/in/natasha-newbold/)
