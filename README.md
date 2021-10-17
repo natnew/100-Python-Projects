@@ -58,7 +58,7 @@ Number | Project      | Resources
 47 | [Working With Timezones](https://github.com/natnew/Python-Projects-Working-With-Timezones)|Internet connection, Python, IDE
 48 | [Jane Austen Story Adaptation](https://github.com/natnew/Python-Projects-Jane-Austen-Story)|Internet connection, Python, IDE
 49 | [Create a PDF](https://github.com/natnew/Python-Projects-Create-A-PDF/blob/main/README.md)
-50 | []()
+50 | [Automate Text Messages](https://github.com/natnew/Python-Projects-Automate-Text-Messages/blob/main/README.md)
 
 <details>
 <summary>Expand For Details</summary>
