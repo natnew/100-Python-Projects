@@ -62,7 +62,7 @@ Number | Project      | Resources
 51 | [WordCloud - Wikipedia - William Shakespeare](https://github.com/natnew/Python-Projects-Wordcloud---WS/blob/main/README.md)
 52 | [Generate A Poem](https://github.com/natnew/Python-Projects-Generate-a-Poem/blob/main/README.md)
 53 | [Web Scraping Amazon](https://github.com/natnew/Python-Projects-Web-Scarping-Amazon)
-54 | []()
+54 | [Visualise & Manipulate Data](https://github.com/natnew/Python-Projects-Visualise-And-Manipulate-Data/blob/main/README.md)
 55 | []()
 56 | []()
 57 | []()
