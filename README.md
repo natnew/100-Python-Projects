@@ -59,7 +59,7 @@ Number | Project      | Resources
 48 | [Jane Austen Story Adaptation](https://github.com/natnew/Python-Projects-Jane-Austen-Story)|Internet connection, Python, IDE
 49 | [Create a PDF](https://github.com/natnew/Python-Projects-Create-A-PDF/blob/main/README.md)
 50 | [Automate Text Messages](https://github.com/natnew/Python-Projects-Automate-Text-Messages/blob/main/README.md)
-51 | []()
+51 | [WordCloud - Wikipedia - William Shakespeare](https://github.com/natnew/Python-Projects-Wordcloud---WS/blob/main/README.md)
 52 | []()
 53 | []()
 54 | []()
