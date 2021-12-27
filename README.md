@@ -106,6 +106,9 @@ Number | Project      | Resources
 - sklearn
 - Azure
 - Google Cloud Platform
+- R
+- Natural Language Processing
+
 
 ## CONTACT
 [Portfolio](https://github.com/natnew/NATASHA-/blob/main/README.md)<BR>
