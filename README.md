@@ -78,16 +78,16 @@ Number | Project      | Resources
 </details>
 
 ## Here are a few libraries that were used on these projects 📚
-![]()
-
-## Latest Articles ✍️
- - [Pandas]()
+- [Pandas]()
  - [Matplotlib]()
  - [Numpy]()
  - [Seaborn]()
  - [Statsmodels]()
  - [Scipy]()
  - [Scikit-Learn]()
+
+## Latest Articles ✍️
+ - [Articles]()
 
 ## CERTIFICATES
  - [Continuous Professional Development - Certificates](https://github.com/natnew/CPD)
