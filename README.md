@@ -90,7 +90,7 @@ Number | Project      | Resources
  - [Scikit-Learn]()
 
 ## CERTIFICATES
- - [Continuous Profesional Development - Certificates](https://github.com/natnew/CPD)
+ - [Continuous Professional Development - Certificates](https://github.com/natnew/CPD)
  
 
 ## SKILLS
