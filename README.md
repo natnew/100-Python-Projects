@@ -81,10 +81,13 @@ Number | Project      | Resources
 ![]()
 
 ## Latest Articles ✍️
- - []()
- - []()
- - []()
- - []()
+ - [Pandas]()
+ - [Matplotlib]()
+ - [Numpy]()
+ - [Seaborn]()
+ - [Statsmodels]()
+ - [Scipy]()
+ - [Scikit-Learn]()
 
 ## CERTIFICATES
  - []()
