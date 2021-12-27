@@ -90,10 +90,8 @@ Number | Project      | Resources
  - [Scikit-Learn]()
 
 ## CERTIFICATES
- - []()
- - []()
- - []()
- - []()
+ - [Continuous Profesional Development - Certificates](https://github.com/natnew/CPD)
+ 
 
 ## SKILLS
 - Python
