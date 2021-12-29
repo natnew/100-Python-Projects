@@ -65,7 +65,7 @@ Number | Project      | Resources
 54 | [Visualise & Manipulate Data](https://github.com/natnew/Python-Projects-Visualise-And-Manipulate-Data/blob/main/README.md)
 55 | [Match Strings](https://github.com/natnew/Python-Projects-Match-Strings/blob/main/README.md)
 56 | [Data Preparation](https://github.com/natnew/Python-Project-Data-Preparation/blob/main/README.md)
-57 | []()
+57 | [Arithmetic-Formatter](https://github.com/natnew/Python-Projects-Arithmetic-Formatter/blob/main/README.md)
 58 | []()
 59 | []()
 60 | []()
