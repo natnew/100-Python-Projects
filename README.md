@@ -68,7 +68,7 @@ Number | Project      | Resources
 57 | [Arithmetic-Formatter](https://github.com/natnew/Python-Projects-Arithmetic-Formatter/blob/main/README.md)
 58 | [Time Calculator](https://github.com/natnew/Python-Projects-Time-Calculator)
 59 | [Budget App](https://github.com/natnew/Python-Projects-Budget-App/blob/main/README.md)
-60 | []()
+60 | [Shape Calculator](https://github.com/natnew/Python-Projects-Shape-Calculator)
 61 | []()
 62 | []()
 63 | []()
