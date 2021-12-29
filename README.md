@@ -67,8 +67,18 @@ Number | Project      | Resources
 56 | [Data Preparation](https://github.com/natnew/Python-Project-Data-Preparation/blob/main/README.md)
 57 | [Arithmetic-Formatter](https://github.com/natnew/Python-Projects-Arithmetic-Formatter/blob/main/README.md)
 58 | [Time Calculator](https://github.com/natnew/Python-Projects-Time-Calculator)
-59 | []()
+59 | [Budget App](https://github.com/natnew/Python-Projects-Budget-App/blob/main/README.md)
 60 | []()
+61 | []()
+62 | []()
+63 | []()
+64 | []()
+65 | []()
+66 | []()
+67 | []()
+68 | []()
+69 | []()
+70 | []()
 
 <details>
 <summary>Expand For Details</summary>
