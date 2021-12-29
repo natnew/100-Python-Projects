@@ -66,7 +66,7 @@ Number | Project      | Resources
 55 | [Match Strings](https://github.com/natnew/Python-Projects-Match-Strings/blob/main/README.md)
 56 | [Data Preparation](https://github.com/natnew/Python-Project-Data-Preparation/blob/main/README.md)
 57 | [Arithmetic-Formatter](https://github.com/natnew/Python-Projects-Arithmetic-Formatter/blob/main/README.md)
-58 | []()
+58 | [Time Calculator](https://github.com/natnew/Python-Projects-Time-Calculator)
 59 | []()
 60 | []()
 
