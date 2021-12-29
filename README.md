@@ -69,7 +69,7 @@ Number | Project      | Resources
 58 | [Time Calculator](https://github.com/natnew/Python-Projects-Time-Calculator)
 59 | [Budget App](https://github.com/natnew/Python-Projects-Budget-App/blob/main/README.md)
 60 | [Shape Calculator](https://github.com/natnew/Python-Projects-Shape-Calculator)
-61 | []()
+61 | [Probability Calculator](https://github.com/natnew/Python-Porjects-Probability-Calculator)
 62 | []()
 63 | []()
 64 | []()
