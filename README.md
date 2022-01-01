@@ -73,7 +73,7 @@ Number | Project      | Resources
 62 | [Manipulating data with Python - NASA Data](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md )
 63 | [Manipulating data with Python - MET Office Data](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
 64 | [Manipulating data with Python - Housing market and house prices](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
-65 | [Manipulating data with Python - UK House Price (Direct Gov)](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
+65 | [Manipulating data with Python - UK House Price ](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
 66 | []()
 67 | []()
 68 | []()
