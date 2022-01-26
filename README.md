@@ -57,25 +57,25 @@ Number | Project      | Resources
 46 | [Sort Strings](https://github.com/natnew/Python-Projects-Sort-Strings)|Internet connection, Python, IDE
 47 | [Working With Timezones](https://github.com/natnew/Python-Projects-Working-With-Timezones)|Internet connection, Python, IDE
 48 | [Jane Austen Story Adaptation](https://github.com/natnew/Python-Projects-Jane-Austen-Story)|Internet connection, Python, IDE
-49 | [Create a PDF](https://github.com/natnew/Python-Projects-Create-A-PDF/blob/main/README.md)
-50 | [Automate Text Messages](https://github.com/natnew/Python-Projects-Automate-Text-Messages/blob/main/README.md)
-51 | [WordCloud - Wikipedia - William Shakespeare](https://github.com/natnew/Python-Projects-Wordcloud---WS/blob/main/README.md)
-52 | [Generate A Poem](https://github.com/natnew/Python-Projects-Generate-a-Poem/blob/main/README.md)
-53 | [Web Scraping Amazon](https://github.com/natnew/Python-Projects-Web-Scarping-Amazon)
-54 | [Visualise & Manipulate Data](https://github.com/natnew/Python-Projects-Visualise-And-Manipulate-Data/blob/main/README.md)
-55 | [Match Strings](https://github.com/natnew/Python-Projects-Match-Strings/blob/main/README.md)
-56 | [Data Preparation](https://github.com/natnew/Python-Project-Data-Preparation/blob/main/README.md)
-57 | [Arithmetic-Formatter](https://github.com/natnew/Python-Projects-Arithmetic-Formatter/blob/main/README.md)
-58 | [Time Calculator](https://github.com/natnew/Python-Projects-Time-Calculator)
-59 | [Budget App](https://github.com/natnew/Python-Projects-Budget-App/blob/main/README.md)
-60 | [Shape Calculator](https://github.com/natnew/Python-Projects-Shape-Calculator)
-61 | [Probability Calculator](https://github.com/natnew/Python-Porjects-Probability-Calculator)
-62 | [Manipulating data with Python - NASA Data](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md )
-63 | [Manipulating data with Python - MET Office Data](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
-64 | [Manipulating data with Python - Housing market and house prices](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
-65 | [Manipulating data with Python - UK House Price ](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
-66 | [Manipulating data with Python - Business growth, access to finance and performance outcomes in the recession](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)
-67 | []()
+49 | [Create a PDF](https://github.com/natnew/Python-Projects-Create-A-PDF/blob/main/README.md)|Internet connection, Python, IDE
+50 | [Automate Text Messages](https://github.com/natnew/Python-Projects-Automate-Text-Messages/blob/main/README.md)|Internet connection, Python, IDE
+51 | [WordCloud - Wikipedia - William Shakespeare](https://github.com/natnew/Python-Projects-Wordcloud---WS/blob/main/README.md)|Internet connection, Python, IDE
+52 | [Generate A Poem](https://github.com/natnew/Python-Projects-Generate-a-Poem/blob/main/README.md)|Internet connection, Python, IDE
+53 | [Web Scraping Amazon](https://github.com/natnew/Python-Projects-Web-Scarping-Amazon)|Internet connection, Python, IDE
+54 | [Visualise & Manipulate Data](https://github.com/natnew/Python-Projects-Visualise-And-Manipulate-Data/blob/main/README.md)|Internet connection, Python, IDE
+55 | [Match Strings](https://github.com/natnew/Python-Projects-Match-Strings/blob/main/README.md)|Internet connection, Python, IDE
+56 | [Data Preparation](https://github.com/natnew/Python-Project-Data-Preparation/blob/main/README.md)|Internet connection, Python, IDE
+57 | [Arithmetic-Formatter](https://github.com/natnew/Python-Projects-Arithmetic-Formatter/blob/main/README.md)|Internet connection, Python, IDE
+58 | [Time Calculator](https://github.com/natnew/Python-Projects-Time-Calculator)|Internet connection, Python, IDE
+59 | [Budget App](https://github.com/natnew/Python-Projects-Budget-App/blob/main/README.md)|Internet connection, Python, IDE
+60 | [Shape Calculator](https://github.com/natnew/Python-Projects-Shape-Calculator)|Internet connection, Python, IDE
+61 | [Probability Calculator](https://github.com/natnew/Python-Porjects-Probability-Calculator)|Internet connection, Python, IDE
+62 | [Manipulating data with Python - NASA Data](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md )|Internet connection, Python, IDE
+63 | [Manipulating data with Python - MET Office Data](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)|Internet connection, Python, IDE
+64 | [Manipulating data with Python - Housing market and house prices](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)|Internet connection, Python, IDE
+65 | [Manipulating data with Python - UK House Price ](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)|Internet connection, Python, IDE
+66 | [Manipulating data with Python - Business growth, access to finance and performance outcomes in the recession](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)|Internet connection, Python, IDE
+67 | [Mobile OS Usage - Word Graph Visualisation](https://github.com/natnew/Python-Projects-Data-Visualisation)|Internet connection, Python, IDE
 68 | []()
 69 | []()
 70 | []()
