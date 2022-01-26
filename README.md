@@ -76,7 +76,7 @@ Number | Project      | Resources
 65 | [Manipulating data with Python - UK House Price ](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)|Internet connection, Python, IDE
 66 | [Manipulating data with Python - Business growth, access to finance and performance outcomes in the recession](https://github.com/natnew/Python-Projects-Collecting-and-Manipulating-Data/blob/main/README.md)|Internet connection, Python, IDE
 67 | [Mobile OS Usage - Word Graph Visualisation](https://github.com/natnew/Python-Projects-Data-Visualisation)|Internet connection, Python, IDE
-68 | [Visualising Connections in Text Data](https://github.com/natnew/Python-Projects-Visualising-Connections/blob/main/README.md)Internet connection, Python, IDE
+68 | [Visualising Connections in Text Data](https://github.com/natnew/Python-Projects-Visualising-Connections/blob/main/README.md) |Internet connection, Python, IDE
 69 | []()
 70 | []()
 71 | []()
