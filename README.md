@@ -7,6 +7,9 @@ If you want to learn about **Python**: https://docs.python.org/3/ <br>
 If you want to learn about **Github**: https://docs.github.com/en <br>
 I welcome any suggestions! ⭐ <br>
 
+> Created: November 2021 <br>
+> Updated: January 2022 <br>
+
 Number | Project      | Resources
 ------ | ------------- |-------------------------------
 1 | [Hello World](https://github.com/natnew/Python-Project-Hello-World) |Internet connection, Python, IDE
@@ -78,7 +81,7 @@ Number | Project      | Resources
 67 | [Mobile OS Usage - Word Graph Visualisation](https://github.com/natnew/Python-Projects-Data-Visualisation)|Internet connection, Python, IDE
 68 | [Visualising Connections in Text Data](https://github.com/natnew/Python-Projects-Visualising-Connections/blob/main/README.md)|Internet connection, Python, IDE
 69 | [Visualise Data With Plotly](https://github.com/natnew/Python-Projects-Visualise-Data-With-Plotly)|Internet connection, Python, IDE
-70 | []()
+70 | [Visualise Spotify Music](https://github.com/natnew/Python-Projects-Visualise-Data-With-Plotly)|Internet connection, Python, IDE
 71 | []()
 72 | []()
 73 | []()
@@ -154,5 +157,5 @@ Number | Project      | Resources
 
 ## CONTACT
 [Portfolio](https://github.com/natnew/NATASHA-/blob/main/README.md)<BR>
-[Linkedin](https://www.linkedin.com/in/natasha-newbold/)
-[CV](https://www.linkedin.com/in/natasha-newbold/)
+[Linkedin](https://www.linkedin.com/in/natasha-newbold/)<br>
+[CV](https://www.linkedin.com/in/natasha-newbold/)<br>
