@@ -7,7 +7,7 @@ If you want to learn about **Python**: https://docs.python.org/3/ <br>
 If you want to learn about **Github**: https://docs.github.com/en <br>
 I welcome any suggestions! ⭐ <br>
 
-> Created: November 2021 <br>
+> Created: October 2021 <br>
 > Updated: January 2022 <br>
 
 Number | Project      | Resources
