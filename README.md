@@ -82,7 +82,7 @@ Number | Project      | Resources
 68 | [Visualising Connections in Text Data](https://github.com/natnew/Python-Projects-Visualising-Connections/blob/main/README.md)|Internet connection, Python, IDE
 69 | [Visualise Data With Plotly](https://github.com/natnew/Python-Projects-Visualise-Data-With-Plotly)|Internet connection, Python, IDE
 70 | [Visualise Spotify Music](https://github.com/natnew/Python-Projects-Visualise-Data-With-Plotly)|Internet connection, Python, IDE
-71 | []()
+71 | [Visualise Flight Delays](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Data_visualisation_for_flights_delays.ipynb)
 72 | []()
 73 | []()
 74 | []()
