@@ -8,6 +8,7 @@ If you want to learn about **Github**: https://docs.github.com/en <br>
 I welcome any suggestions! ⭐ <br>
 
 > Created: October 2021 <br>
+> Completed: January 2022 <br>
 > Updated: January 2022 <br>
 
 Number | Project      | Resources
@@ -85,33 +86,33 @@ Number | Project      | Resources
 71 | [Visualise Flight Delays](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Data_visualisation_for_flights_delays.ipynb)|Internet connection, Python, IDE
 72 | [Visualise Data - Insurance Data](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Data_Visualisation_for_Insuranceipynb.ipynb)|Internet connection, Python, IDE
 73 | [Visualise Data - Iris Flowers](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Visualise_distributions_species_of_iris.ipynb)|Internet connection, Python, IDE
-74 | []()
-75 | []()
-76 | []()
-77 | []()
-78 | []()
-79 | []()
-80 | []()
-81 | []()
-82 | []()
-83 | []()
-84 | []()
-85 | []()
-86 | []()
-87 | []()
-88 | []()
-89 | []()
-90 | []()
-91 | []()
-92 | []()
-93 | []()
-94 | []()
-95 | []()
-96 | []()
-97 | []()
-98 | []()
-99 | []()
-100 | []()
+74 | [Reset Index in Pandas Dataframe](https://github.com/natnew/Mini-Python-Projects/blob/main/Pandas_Python.ipynb)|Internet connection, Python, IDE
+75 | [Randomly select rows from Pandas DataFrame](https://github.com/natnew/Mini-Python-Projects/blob/main/Pandas_Python.ipynb)|Internet connection, Python, IDE
+76 | [Apply uppercase to a column in Pandas dataframe](https://github.com/natnew/Mini-Python-Projects/blob/main/Pandas_Python.ipynb)|Internet connection, Python, IDE
+77 | [Iterating through a range of dates](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Datetime.ipynb)|Internet connection, Python, IDE
+78 | [Convert string to datetime in Python with timezone](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Datetime.ipynb)|Internet connection, Python, IDE
+79 | [Isoformat to datetime](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Datetime.ipynb)|Internet connection, Python, IDE
+80 | [Sort Python Dictionaries by Key or Value](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Dictionary_.ipynb)|Internet connection, Python, IDE
+81 | [Sum list of dictionaries with same key](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Dictionary_.ipynb)|Internet connection, Python, IDE
+82 | [Remove a key from dictionary](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Dictionary_.ipynb)|Internet connection, Python, IDE
+83 | [Merging two Dictionaries](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Dictionary_.ipynb)|Internet connection, Python, IDE
+84 | [Iterating With Python Lambda](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Lambda.ipynb)|Internet connection, Python, IDE
+85 | [Find fibonacci series upto n using lambda](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Lambda.ipynb)|Internet connection, Python, IDE
+86 | [Count Even and Odd numbers in a List](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Lambda.ipynb)|Internet connection, Python, IDE
+87 | [Difference between List comprehension and Lambda](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Lambda.ipynb)|Internet connection, Python, IDE
+88 | [Convert String Matrix Representation to Matrix](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Matrix.ipynb)|Internet connection, Python, IDE
+89 | [Count the frequency of matrix row](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Matrix.ipynb)|Internet connection, Python, IDE
+90 | [Convert Integer Matrix to String Matrix](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Matrix.ipynb)|Internet connection, Python, IDE
+91 | [Create an empty and a full NumPy array](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Numpy.ipynb)|Internet connection, Python, IDE
+92 | [Get the maximum value from given matrix](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Numpy.ipynb)|Internet connection, Python, IDE
+93 | [Converting a 10 digit phone number to US format using Regex](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Regex.ipynb)|Internet connection, Python, IDE
+94 | [Extract Strings between HTML Tags](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Regex.ipynb)|Internet connection, Python, IDE
+95 | [Find Indices of Overlapping Substrings](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Regex.ipynb)|Internet connection, Python, IDE
+96 | [Extract paragraph from a website and save it as a text file](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Web_Scraping_Mini_Projects.ipynb)|Internet connection, Python, IDE
+97 | [Read information from a Wikipedia page](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Web_Scraping_Mini_Projects.ipynb)|Internet connection, Python, IDE
+98 | [21 Number game](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Projects.ipynb)|Internet connection, Python, IDE
+99 | [2048 Game](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Projects.ipynb)|Internet connection, Python, IDE
+100 | [Taking Screenshots using pyscreenshot](https://github.com/natnew/Mini-Python-Projects/blob/main/Python_Projects.ipynb)|Internet connection, Python, IDE
 
 
 
