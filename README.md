@@ -1,4 +1,6 @@
 # 100 Python Projects 🐍
+
+![](https://github.com/natnew/100-Python-Projects/blob/main/kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg)
 100 Python Projects by natnew<br>
 *Beginner, Intermediate and advanced projects*<br>
 Part of the **100 Days Of Code** Challenge! 🙂
