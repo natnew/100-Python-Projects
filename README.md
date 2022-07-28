@@ -164,3 +164,6 @@ Number | Project      | Resources
 [Portfolio](https://github.com/natnew/NATASHA-/blob/main/README.md)<BR>
 [Linkedin](https://www.linkedin.com/in/natasha-newbold/)<br>
 [CV](https://www.linkedin.com/in/natasha-newbold/)<br>
+
+[![HitCount](http://hits.dwyl.com/natnew/natnew/100-Python-Projects.md.svg)](http://hits.dwyl.com/natnew/natnew/100-Python-Projects/edit/main/README.md) 
+
