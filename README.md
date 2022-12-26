@@ -128,20 +128,18 @@ Number | Project      | Resources
 </details>
 
 ## Here are a few libraries that were used on these projects 📚
-- [Pandas]()
- - [Matplotlib]()
- - [Numpy]()
- - [Seaborn]()
- - [Statsmodels]()
- - [Scipy]()
- - [Scikit-Learn]()
+- [Pandas](https://pandas.pydata.org/docs/)
+ - [Matplotlib](https://matplotlib.org/stable/index.html)
+ - [Numpy](https://numpy.org/doc/)
+ - [Seaborn](https://seaborn.pydata.org/)
+ - [Statsmodels](https://www.statsmodels.org/stable/index.html)
+ - [Scipy](https://docs.scipy.org/doc//scipy/index.html)
+ - [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+ - [Tensorflow](https://www.tensorflow.org/)
 
 ## Latest Articles ✍️
- - [Articles](https://github.com/natnew/My-BIM-Toolbox)
+ - [Articles](https://medium.com/@natashanewbold)
 
-## CERTIFICATES
- - [Continuous Professional Development - Certificates](https://github.com/natnew/CPD)
- 
 
 ## SKILLS
 - Python
