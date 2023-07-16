@@ -15,6 +15,30 @@ I welcome any suggestions! ⭐ <br>
 > Completed: January 2022 <br>
 > Updated: January 2022 <br>
 
+## 👋 Welcome! 
+Welcome to the "100 Python Projects" repository! Here, we invite you to embark on an incredible journey filled with creativity, problem-solving, and the limitless possibilities of Python programming. Whether you're a beginner or an experienced developer, this repository is designed to provide you with a diverse collection of Python projects to challenge and inspire you.
+
+## Before getting started:
+
+    🍴 To incorporate this repository into your own project, you can fork it.
+    ⭐ In order to receive notifications about future improvements, please consider starring this repository.
+For a short write up check out this [medium](https://medium.com/@natashanewbold) post. 
+
+## 📑 Ebooks, Guides and Cheat Sheets 
+
+##### [EBook: The Creative Side of AI: Mastering the Art of Prompt Engineering](https://natashanewbold.gumroad.com/l/zctxdh)
+##### [Mastering Prompt Engineering: A Free eBook](https://natashanewbold.gumroad.com/l/kjxpip)
+##### [A - Z Machine Learning Guide](https://natnew.github.io/Awesome-Prompt-Engineering/ML_Guide.html)
+##### [ML CheatSheet](https://natnew.github.io/Awesome-Prompt-Engineering/ML_CheatSheet.html)
+
+## 👀 Announcements 
+📢 **[Join the AI Adventure - 100 Days of Artificial Intelligence!](https://github.com/natnew/100-Days-of-Artificial-Intelligence/tree/main)** 🚀
+100 Days of Artificial Intelligence Project: Join us on a thrilling journey through the realms of AI as we unravel its mysteries one day at a time. Explore machine learning, neural networks, and natural language processing in this 100-day adventure, designed to enhance your understanding of artificial intelligence.
+
+📢 **[Unleash the Power of Language - Introducing Awesome Prompt Engineering!](https://github.com/natnew/Awesome-Prompt-Engineering)** 💡
+Introducing Awesome Prompt Engineering Project: Dive into the fascinating world of prompt engineering, where language models are guided to generate specific outputs. Learn how to fine-tune models, craft effective prompts, and unlock the true potential of AI text generation. Discover the power of prompt engineering and harness it to create compelling and dynamic outputs.
+
+
 Number | Project      | Resources
 ------ | ------------- |-------------------------------
 1 | [Hello World](https://github.com/natnew/Python-Project-Hello-World) |Internet connection, Python, IDE
@@ -164,4 +188,8 @@ Number | Project      | Resources
 [CV](https://www.linkedin.com/in/natasha-newbold/)<br>
 
 [![HitCount](http://hits.dwyl.com/natnew/natnew/100-Python-Projects.md.svg)](http://hits.dwyl.com/natnew/natnew/100-Python-Projects/edit/main/README.md) 
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
