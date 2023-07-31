@@ -1,4 +1,5 @@
 # 100 Python Projects 🐍
+![GitHub last commit](https://img.shields.io/github/last-commit/natnew/100-Python-Projects) ![GitHub Repo stars](https://img.shields.io/github/stars/natnew/100-Python-Projects?style=social) ![GitHub forks](https://img.shields.io/github/forks/natnew/100-Python-Projects?style=social)
 
 ![](https://github.com/natnew/100-Python-Projects/blob/main/kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg)<br>
 From Upsplash. Accessed January 2022.<br>
