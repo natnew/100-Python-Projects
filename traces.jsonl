@@ -1,0 +1,4 @@
+{"event": "run_start", "run_id": "53662669-af10-46b1-b060-877a32cabc81", "timestamp": "2026-01-18T16:35:45.665526"}
+{"event": "step", "run_id": "53662669-af10-46b1-b060-877a32cabc81", "timestamp": "2026-01-18T16:35:45.666949", "step": "search_tool", "input": {"query": "Weather in NY"}, "output": "25C, Sunny", "metadata": {"latency_ms": 120}}
+{"event": "step", "run_id": "53662669-af10-46b1-b060-877a32cabc81", "timestamp": "2026-01-18T16:35:45.667514", "step": "llm_reasoning", "input": "Context: 25C...", "output": "It is warm in NY.", "metadata": {}}
+{"event": "error", "run_id": "53662669-af10-46b1-b060-877a32cabc81", "timestamp": "2026-01-18T16:35:45.668163", "step": "api_call", "error": "API Connection Failed"}

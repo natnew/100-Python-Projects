@@ -1,0 +1,24 @@
+site_name: 100 Python Projects (AI Agents)
+site_description: A comprehensive pattern library for AI Engineering.
+site_author: Antigravity
+repo_url: https://github.com/example/100-python-projects
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+  palette:
+    scheme: slate
+    primary: indigo
+
+nav:
+  - Home: README.md
+  - Contributing: CONTRIBUTING.md
+  - Tiers:
+    - Tier 1 (Foundations): Tier-1-Agent-Foundations/
+    - Tier 2 (Multi-Agent): Tier-2-Multi-Agent-Architectures/
+    - Tier 3 (Safety & Ethics): Tier-3-Evaluation-and-Safety/
+
+plugins:
+  - search
